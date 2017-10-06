@@ -1,6 +1,6 @@
 html {
   background-color: #c9b5ab;
-  font-family: Georgia, serif;
+  font-family: "PT Serif", serif;
   line-height: 1.5;
 }
 
@@ -37,7 +37,7 @@ img {
 }
 
 p {
-  font-size: .8rem;
+  font-size: 1rem;
 }
 
 .boldanddaring {
@@ -81,6 +81,7 @@ dt {
 }
 ul li {
   list-style-type: circle;
+  font-size: .8rem;
 }
 
 dd {
@@ -89,4 +90,12 @@ dd {
 
 dd > data {
   font-weight: normal;
+}
+
+nav, h1, h2, dd {
+  font-family: "PT Sans", sans-serif;
+}
+
+data {
+  font-family: "PT Serif", serif;
 }
