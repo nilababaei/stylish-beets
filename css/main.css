@@ -1,0 +1,92 @@
+html {
+  background-color: #c9b5ab;
+  font-family: Georgia, serif;
+  line-height: 1.5;
+}
+
+ol {
+  list-style: none;
+}
+
+a {
+  color: #8f2440;
+  font-size: 1.125rem;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3f1622;
+}
+
+h1, h2 {
+  color: #3f1622;
+}
+
+figcaption, p, blockquote, li, dt, dd, small {
+  color: #222;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+  font-size: .8rem;
+}
+
+img {
+  width: 100%;
+}
+
+p {
+  font-size: .8rem;
+}
+
+.boldanddaring {
+  font-weight: bold;
+  font-size: 1.125rem;
+}
+
+b {
+  font-weight: normal;
+}
+
+em > b {
+  font-style: none;
+  font-weight: bold;
+}
+
+blockquote {
+  text-align: left;
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+strong {
+  font-weight: normal;
+}
+
+cite {
+  font-size: .8rem;
+}
+
+footer {
+  font-size: 0.8rem;
+}
+
+ol li {
+  list-style-type: lower-greek;
+}
+
+dt {
+  font-style: italic;
+}
+ul li {
+  list-style-type: circle;
+}
+
+dd {
+  font-weight: bold;
+}
+
+dd > data {
+  font-weight: normal;
+}
