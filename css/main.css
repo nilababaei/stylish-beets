@@ -30,7 +30,7 @@ figcaption, p, blockquote, li, dt, dd, small {
 figcaption {
   text-align: center;
   font-style: italic;
-  font-size: .8rem;
+  font-size: .95rem;
 }
 
 img {
@@ -52,6 +52,7 @@ b {
 
 em > b {
   font-weight: bold;
+  font-style: normal;
 }
 
 blockquote {
@@ -95,6 +96,7 @@ dd > data {
 
 nav, h1, h2, dd {
   font-family: "PT Sans", sans-serif;
+  font-weight: bolder;
 }
 
 data {
@@ -105,6 +107,10 @@ h1 {
   font-size: 1.5rem;
 }
 
-header {
-  font-weight: bolder;
+p > cite {
+  font-size: 1rem;
+}
+
+dl {
+  line-height: 2.5;
 }
