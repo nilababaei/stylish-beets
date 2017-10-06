@@ -69,7 +69,7 @@ cite {
 }
 
 footer {
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 ol li {
@@ -79,6 +79,7 @@ ol li {
 dt {
   font-style: italic;
 }
+
 ul li {
   list-style-type: circle;
   font-size: .8rem;
