@@ -72,7 +72,7 @@ footer {
   font-size: .8rem;
 }
 
-ol li {
+.onlythis {
   list-style-type: lower-greek;
 }
 
@@ -99,4 +99,12 @@ nav, h1, h2, dd {
 
 data {
   font-family: "PT Serif", serif;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+header {
+  font-weight: bolder;
 }
