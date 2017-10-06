@@ -16,6 +16,7 @@ a {
 
 a:hover {
   color: #3f1622;
+  text-decoration: none;
 }
 
 h1, h2 {
