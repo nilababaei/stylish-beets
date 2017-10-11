@@ -79,15 +79,12 @@ footer {
 
 dt {
   font-style: italic;
+  font-weight: bold;
 }
 
 ul li {
   list-style-type: circle;
   font-size: .8rem;
-}
-
-dt {
-  font-weight: bold;
 }
 
 dd > data {
