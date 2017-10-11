@@ -86,11 +86,15 @@ ul li {
   font-size: .8rem;
 }
 
-dd {
+dt {
   font-weight: bold;
 }
 
 dd > data {
+  font-weight: normal;
+}
+
+dt > data {
   font-weight: normal;
 }
 
