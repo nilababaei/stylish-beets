@@ -55,9 +55,9 @@ em > b {
   font-style: normal;
 }
 
-blockquote {
+blockquote p {
   text-align: left;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   font-style: italic;
 }
 
